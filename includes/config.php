@@ -1,9 +1,9 @@
 <?php
 // config.php - Database connection
-$host = '127.0.0.1'; // or localhost
-$db = 'fire_safety'; // your database name
-$user = 'root'; // your MySQL username (default is 'root' for XAMPP)
-$pass = ''; // your MySQL password (leave blank for XAMPP)
+$host = ''; // or localhost
+$db = ''; // your database name
+$user = ''; // your MySQL username 
+$pass = ''; // your MySQL password 
 
 try {
     // Initialize the PDO object for the database connection
