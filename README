@@ -1,0 +1,5 @@
+Database Configuration File
+Locate "includes/config.php" file and make the necessary db Configuration
+
+Database Setup
+copy the queries in "tab.sql" file to set up the necessary tables for the app
